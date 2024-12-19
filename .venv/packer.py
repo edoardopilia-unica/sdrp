@@ -1,5 +1,5 @@
-# SDRP\packer.py V. 1.0
-# Libreria Gestione Pacchetti - Versione 1.0
+# SDRP\packer.py V. 2.0
+# Libreria Gestione Pacchetti - Versione 2.0
 
 import alphabet
 import rdb

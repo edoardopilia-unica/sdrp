@@ -1,4 +1,4 @@
-# SDRP\tx_wav.py V. 1.0
+# SDRP\tx_wav.py V. 2.0
 # Eseguibile per generazione file wav codificati - Versione 1.0
 
 import modem

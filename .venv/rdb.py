@@ -1,4 +1,4 @@
-#SDRP\rdb.py V. 1.0
+#SDRP\rdb.py V. 2.0
 # Libreria funzioni di debug - Versione 1.0
 
 __name__ = 'rdb'

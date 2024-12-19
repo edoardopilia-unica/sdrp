@@ -1,5 +1,5 @@
-# SDRP\modem.py V. 1.0
-# Libreria Modulazione-Demodulazione AFSK - Versione 1.0
+# SDRP\modem.py V. 2.0
+# Libreria Modulazione-Demodulazione AFSK - Versione 2.0
 
 from signal import signal
 import wave

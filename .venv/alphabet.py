@@ -1,4 +1,4 @@
-# SDRP\alphabet.py V. 1.0
+# SDRP\alphabet.py V. 2.0
 # Liberia per codifica 8P per l'utilizzo di SDRP in modalità rtty - Versione 1.0
 
 
